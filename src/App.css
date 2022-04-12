@@ -1,0 +1,66 @@
+/* .MainHome{
+  background-image: url('https://www.myfreewalls.com/public/uploads/preview/dark-abstract-gaming-color-5k-wallpaper-11625792127spo6ievzi6.jpg');
+  background-size: cover;
+
+} */
+
+.MainDivHome {
+  height: 80vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.HomeHeader {
+  font-size: 50px;
+  color: #769cf5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.HomeButton {
+  background-color: #5792ff;
+  border: 1px solid #ddd;
+  color: rgb(255, 251, 251);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 200px;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.ticTacDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 60vh;
+}
+
+.HangManDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 60vh;
+}
+
+.HangManDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 60vh;
+}
+
+.CardDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 60vh;
+}
